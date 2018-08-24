@@ -2,3 +2,4 @@ Welcome to telsuko code
 
 learning git in telsuko code
 
+Need to learn intellij 
